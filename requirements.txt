@@ -103,7 +103,7 @@ six==1.14.0
 sounddevice==0.3.15
 SoundFile==0.10.3.post1
 tensorboard==2.1.0
-tensorflow==2.1.0
+tensorflow==2.9.3
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 terminado==0.8.3
